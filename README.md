@@ -13,13 +13,24 @@ To prepare the data for analysis, we performed the following steps:
 
 ## Analysis
 
-The analysis consists of following queries for bar data:
+## Coupon Acceptance Rate
 
-### Query 1
-- Focuses on drivers who go to bars more than once a month, are not with 'Kid(s)', and are not 'Widowed'. It calculates the acceptance rate for this group.
+We calculated the proportion of total observations that accepted coupons, which was found to be approximately 56.84%. A bar plot was created to visualize the distribution of accepted and non-accepted coupons.
 
-### Query 2
-- Examines drivers who go to bars more than once a month and are younger than 30. It calculates the acceptance rate for this group.
+## Analysis on Bar Coupons
 
-### Query 3
-- Filters for drivers who visit restaurants with '4~8' or 'gt8' ratings and have income levels within specific salary ranges. It calculates the acceptance rate for this group.
+The analysis focused on bar-related coupons. We calculated the proportion of accepted bar coupons and compared the acceptance rates based on how often people visited bars and their age. We also compared acceptance rates based on passenger presence and occupation.
+
+
+## Analysis on the Basis of Destination
+
+We analyzed coupon acceptance based on the destination, identifying that non-urgent destinations tended to have higher acceptance rates. Additionally, we analyzed the influence of coupon type on acceptance.
+
+## Analysis of Coffee House Coupons
+
+The acceptance rates of coffee house coupons were examined based on various factors, including the frequency of visits and the presence of passengers. These insights provide a better understanding of coffee house coupon acceptance.
+
+## Conclusions
+
+Based on the observations and analyses, we made various hypotheses about drivers who accept different types of coupons. For example, drivers who visit bars more frequently tend to accept bar coupons, while drivers with children as passengers tend to have lower acceptance rates.
+
